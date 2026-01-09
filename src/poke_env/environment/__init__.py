@@ -10,6 +10,7 @@ __all__ = [
     "ObsType",
     "PokeEnv",
     "SingleAgentWrapper",
+    "DoubleAgentWrapper",
     "SinglesEnv",
     "DoublesEnv",
 ]
